@@ -1,0 +1,4 @@
+model/Product.class
+app/DropwizardExampleApp.class
+config/DropwizardExampleConfiguration.class
+resources/ProductController.class
